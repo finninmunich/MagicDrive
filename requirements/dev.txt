@@ -8,7 +8,7 @@ h5py>=3.8.0  # we may need version >=3.5.0. tried with 3.8.0
 einops==0.3.2
 accelerate==0.20.3
 transformers==4.27.4  # for diffusers
-mmcv-full==1.4.5
+#mmcv-full==1.4.5
 
 # from mmdet3d (bevfusion)
 Pillow==8.4.0
